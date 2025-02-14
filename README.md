@@ -48,8 +48,9 @@ Data Processing: Microsoft Excel, SQL
 Visualization & Dashboard: Microsoft Excel
 
 # Conclusion & Business Impact
-This dashboard provides actionable insights into pizza sales trends, helping the business optimize its menu, pricing, and marketing strategies. Key takeaways include:
+This dashboard provides actionable insights into pizza sales trends, helping the business optimize its menu, pricing, and marketing strategies. 
 
+# Key takeaways include:
 Focus marketing campaigns on weekends and peak hours.
 Promote high-revenue pizzas while optimizing or removing underperforming ones.
 Emphasize large-sized pizzas for maximum revenue generation.
